@@ -3,9 +3,9 @@ import 'package:bilgi_testi/soru.dart';
 class TestVeri {
   int _soruIndex = 0;
 
-  // TestVeri() {
-  //   karistir(_soruBankasiTR);
-  // }
+  TestVeri() {
+    karistir(_soruBankasiTR);
+  }
 
   List<Soru> _soruBankasiTR = [
     Soru(
@@ -60,9 +60,9 @@ class TestVeri {
   }
 
   void testiSifirla() => _soruIndex = 0;
-  // void karistir(List<Soru> soruBankasi) {
-  //   soruBankasi.shuffle();
-  // }
+  void karistir(List<Soru> soruBankasi) {
+    soruBankasi.shuffle();
+  }
 
   int getToplamSoru() => _soruBankasiTR.length;
 }
