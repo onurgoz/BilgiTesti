@@ -1,16 +1,11 @@
-# bilgi_testi
+# Bilgi Testi
 
-A new Flutter project.
+ilk flutter projem.
 
-## Getting Started
+## Bilgi Testi Nedir?
 
-This project is a starting point for a Flutter application.
+Rastgele ekranda getirilen sorulara doğru yada yanlış cevabını verebildiğimiz.Doğru ise yeşil surat değil ise kırmızı surat olarak ekrana çıktı veren küçük çaplı bir flutter projesidir.
 
-A few resources to get you started if this is your first Flutter project:
+## Uygulama içi Screen shot
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/48811337/118354418-a63fd600-b573-11eb-9782-d240fc12877a.png)
